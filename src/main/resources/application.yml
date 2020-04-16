@@ -1,0 +1,5 @@
+spotify:
+  url: api.spotify.com
+  credentials:
+    client_id: {client_id}
+    client_secret: {client_secret}
